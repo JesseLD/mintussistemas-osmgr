@@ -1,6 +1,6 @@
 # 🛠️ Mintus Sistemas
 
-[![🇧🇷 Portuguese](#pt-br)](#pt-br) | [![🇬🇧 English](#english)](#english) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
